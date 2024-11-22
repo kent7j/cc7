@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30b338a3-5469-4ceb-862e-04d7f6e99770" name="更改" comment="pull">
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/.env.copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/bot.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/cache/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/cache/market.cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/cache/pool.cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/cache/snipe-list.cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/filters/burn.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/filters/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/filters/mutable.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/filters/pool-filters.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/filters/pool-size.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/filters/renounced.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/liquidity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/market.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/promises.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/token.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/helpers/wallet.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/listeners/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/listeners/listeners.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/snipe-list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/transactions/default-transaction-executor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/transactions/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/transactions/jito-rpc-transaction-executor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/transactions/transaction-executor.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/transactions/warp-transaction-executor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Solana Sniper Main/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/strategy1/formatAmmKeysById.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/strategy1/start1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/strategy1/swap1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/strategy2/derivePoolKeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/strategy2/start2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/strategy2/swap2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/utils/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/utils/decoderaylog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot原版/Bot Spam Sniper/utils/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/.env.copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/bot.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/cache/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/cache/market.cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/cache/pool.cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/cache/snipe-list.cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/filters/burn.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/filters/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/filters/mutable.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/filters/pool-filters.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/filters/pool-size.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/filters/renounced.filter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/liquidity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/market.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/promises.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/token.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/helpers/wallet.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/listeners/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/listeners/listeners.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/snipe-list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/transactions/default-transaction-executor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/transactions/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/transactions/jito-rpc-transaction-executor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/transactions/transaction-executor.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/transactions/warp-transaction-executor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Solana Sniper Main/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/strategy1/formatAmmKeysById.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/strategy1/start1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/strategy1/swap1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/strategy2/derivePoolKeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/strategy2/start2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/strategy2/swap2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/utils/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/utils/decoderaylog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bot汉化/bot Spam Sniper/utils/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AxisBot(汉化).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/.env.copy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/bot.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/cache/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/cache/market.cache.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/cache/pool.cache.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/cache/snipe-list.cache.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/filters/burn.filter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/filters/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/filters/mutable.filter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/filters/pool-filters.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/filters/pool-size.filter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/filters/renounced.filter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/liquidity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/logger.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/market.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/promises.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/token.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/helpers/wallet.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/listeners/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/listeners/listeners.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/snipe-list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/transactions/default-transaction-executor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/transactions/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/transactions/jito-rpc-transaction-executor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/transactions/transaction-executor.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/transactions/warp-transaction-executor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 AxisBot Solana Sniper Main/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/strategy1/formatAmmKeysById.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/strategy1/start1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/strategy1/swap1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/strategy2/derivePoolKeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/strategy2/start2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/strategy2/swap2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/utils/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/utils/decoderaylog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 AxisBot Spam Sniper/utils/util.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kent7j"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kent7j/pump-ray.git",
+    "accountId": "8d965bdf-f437-40b8-9f63-0acd7de97654"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2pDU00ZBBlfZOlAsLOZZFlt5LSN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/George/Desktop/gg/AxisBot(汉化)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="30b338a3-5469-4ceb-862e-04d7f6e99770" name="更改" comment="" />
+      <created>1732299912986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732299912986</updated>
+      <workItem from="1732299914042" duration="2081000" />
+    </task>
+    <task id="LOCAL-00001" summary="pull">
+      <option name="closed" value="true" />
+      <created>1732301403465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732301403465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="pull" />
+  </component>
+</project>
